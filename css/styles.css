@@ -1,0 +1,15 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: violet;
+  font-weight: bold;
+  font-family: fantasy;
+}
+
+
+h1 .best {
+  font-size: 200px
+}
