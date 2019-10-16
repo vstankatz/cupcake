@@ -18,3 +18,23 @@ h1 .best {
   color: purple;
   font-family: cursive;
 }
+
+.float {
+  float: right;
+}
+
+.navi {
+  width: 20%;
+  float: right;
+  background-color: lightpink;
+}
+
+.col {
+  width: 200px;
+  float: right;
+}
+
+img {
+  width: 15%;
+  height: auto;
+}
